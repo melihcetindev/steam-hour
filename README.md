@@ -1,6 +1,6 @@
 # steam-booster
 
-<a href="https://yunseok.dev" target="_blank">
+<a href="#">
   <img src="https://img.shields.io/github/package-json/v/yunseok/steam-booster.svg">
 </a>
 <a href="https://yunseok.dev" target="_blank">
@@ -10,11 +10,6 @@
 
 A simple Steam hour booster using Node.js
 
-I recommend using a cloud service such as [Heroku](https://www.heroku.com/) to host your bots. 
-
-<a href="https://yunseok.dev" target="_blank">
-  <img src="https://i.imgur.com/KvmWbrA.gif">
-</a>
 
 <b>WARNING: You can only idle 32 games at the same time!</b>
 
@@ -38,5 +33,4 @@ npm start # IF YOU USE NPM
 yarn      # IF YOU USE YARN
 ```
 
-## License
-[UNLICENSED](https://https://unlicense.org/)
+## CRYZ3N
